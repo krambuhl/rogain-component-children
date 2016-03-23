@@ -1,4 +1,4 @@
-# rogain-helper-children
+# rogain-component-children
 
 Provides an outlet in a component that can be used to compose components.
 
@@ -15,7 +15,7 @@ Works in concert with [rogain-transform-children](https://github.com/krambuhl/re
 With [npm](https://www.npmjs.com) do:
 
 ```
-npm install rogain-helper-children
+npm install rogain-component-children
 ```
 
 ## License
